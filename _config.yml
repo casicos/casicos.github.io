@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wansoo Carey Jo's"
+title                    : "Carry, Carey."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Work-road.blog"
-description              : "Since 2019. 08. 26."
+subtitle                 : "Be loving atmosphere to everyone."
+name                     : "work-road.html"
+description              : "SINCE 2019.08.26"
 url                      : "https://casicos.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,30 +107,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Wansoo Carey JO"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I like **Loving @mosphere**."
+  location         : "Seoul, Korea, Republic of."
+  email            : "casicos94@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: "mailto:casicos94@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://casicos.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100005046393104"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/casicos"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/c4r3y.j0/"
 
 # Site Footer
 footer:
@@ -140,10 +140,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/profile.php?id=100005046393104"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/casicos"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/c4r3y.j0/"
 
 
 # Reading Files
