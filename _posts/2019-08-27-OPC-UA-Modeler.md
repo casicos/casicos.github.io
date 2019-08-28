@@ -1,7 +1,7 @@
 ---
 title: "Head first to OPC-UA Modeler"
 date: 2019-08-27 23:11:22 +0900
-categories: UVC OPCUA
+categories: uvc opcua
 ---
 1. Background of the development of the OPC-UA modeler.
 2. The progress of the development.
